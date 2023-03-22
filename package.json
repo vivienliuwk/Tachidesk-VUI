@@ -4,7 +4,7 @@
   "description": "A tachidesk UI made with Vue + Quasar",
   "productName": "Tachidesk-VUI",
   "author": "Robonau <robonau@gmail.com>",
-  "url": "https://github.com/Suwayomi/Tachidesk-VUI",
+  "url": "https://github.com/vivienliuwk/Tachidesk-VUI",
   "license": "MPL-2.0",
   "private": true,
   "scripts": {
